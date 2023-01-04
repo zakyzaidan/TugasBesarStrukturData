@@ -1,7 +1,9 @@
+Tugas Besar Struktur Data
+
 Kelompok CPU
 
 anggota :
-- Zaky Zaidan
+- Zaky Zaidan 
 - Daniel Pratama Manurung
 
 <img width="397" alt="image" src="https://user-images.githubusercontent.com/66929086/210471411-11775834-ed0b-4798-b103-72724316bc45.png">
