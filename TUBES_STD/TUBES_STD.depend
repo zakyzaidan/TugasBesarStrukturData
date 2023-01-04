@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672665291 source:d:\eki\kuliah\a-semester 3\praktek_sbd\tp13\tubes_std\kargo.cpp
+	"kargo.h"
+
+1672238309 d:\eki\kuliah\a-semester 3\praktek_sbd\tp13\tubes_std\kargo.h
+	<iostream>
+
+1672239066 source:d:\eki\kuliah\a-semester 3\praktek_sbd\tp13\tubes_std\main.cpp
+	"kargo.h"
+
